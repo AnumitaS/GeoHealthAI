@@ -1,5 +1,4 @@
 streamlit
-geopandas
 pandas
 numpy
 scikit-learn
@@ -7,5 +6,6 @@ pydeck
 matplotlib
 openpyxl
 pyarrow
+shapely>=2.0.0
 fiona
-shapely
+geopandas
