@@ -2,14 +2,14 @@
 
 ### Core Features & System Architecture
 
-#### Data Parsing & Harmonization: Extracts raw healthcare facility records directly from state GeoJSON datasets, standardizes field schemas, and maps spatial coordinates to standard tabular formats.
+####   * Data Parsing & Harmonization: Extracts raw healthcare facility records directly from state GeoJSON datasets, standardizes field schemas, and maps spatial coordinates to standard tabular formats.
 
-#### Smart Geocoding Engine: Utilizes automated browser scraping and fallback strategies to resolve missing addresses, validate boundary limits, and eliminate coordinate inaccuracies.
+####   * Smart Geocoding Engine: Utilizes automated browser scraping and fallback strategies to resolve missing addresses, validate boundary limits, and eliminate coordinate inaccuracies.
 
-#### Geospatial & Transport Analysis: Integrates high-resolution census village data, national highway networks, railway tracks, and administrative boundaries to compute accessibility metrics.
+####   * Geospatial & Transport Analysis: Integrates high-resolution census village data, national highway networks, railway tracks, and administrative boundaries to compute accessibility metrics.
 
-#### Demographic Projection Engine: Models population changes between 2011 and 2026 at the village level to detect areas experiencing severe population expansion against existing facility capacity.
+####   * Demographic Projection Engine: Models population changes between 2011 and 2026 at the village level to detect areas experiencing severe population expansion against existing facility capacity.
 
-#### AI-Driven Site Placement Optimization: Calculates dynamic spatial coverage gaps and deploys optimization algorithms to suggest exact coordinates for new health facilities.
+####   * AI-Driven Site Placement Optimization: Calculates dynamic spatial coverage gaps and deploys optimization algorithms to suggest exact coordinates for new health facilities.
 
-#### Automated Deliverables & Policy Briefs: Generates comprehensive system documentation, high-resolution transport and demographic maps, structured CSV recommendations, and policy-ready PDF executive briefs.
+####   * Automated Deliverables & Policy Briefs: Generates comprehensive system documentation, high-resolution transport and demographic maps, structured CSV recommendations, and policy-ready PDF executive briefs.
