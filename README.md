@@ -1,6 +1,6 @@
-# This project is an end-to-end, spatial AI decision-support platform designed to analyze population growth and optimize healthcare facility placement across West Bengal. By combining spatial analysis, demographic modeling, and automated policy reporting, the system identifies critical healthcare coverage gaps and recommends optimal locations for new facilities.
+## This project is an end-to-end, spatial AI decision-support platform designed to analyze population growth and optimize healthcare facility placement across West Bengal. By combining spatial analysis, demographic modeling, and automated policy reporting, the system identifies critical healthcare coverage gaps and recommends optimal locations for new facilities.
 
-## Core Features & System Architecture
+### Core Features & System Architecture
 
 #### Data Parsing & Harmonization: Extracts raw healthcare facility records directly from state GeoJSON datasets, standardizes field schemas, and maps spatial coordinates to standard tabular formats.
 
